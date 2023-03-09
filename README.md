@@ -29,6 +29,6 @@
   
   🖱️<br>
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hmp96)](https://solved.ac/hmp96)
+  프로필](http://mazassumnida.wtf/api/generate_badge?boj=hmp96)](https://solved.ac/hmp96)
   
 </div>
