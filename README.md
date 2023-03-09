@@ -21,13 +21,13 @@
   <br>
   <br>
   
-  🌠languages<br>
+<!--   🌠languages<br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmp96&layout=compact)](https://github.com/hmp96/github-readme-stats)
   <br>
   <br>
   
-<!--   🖱️<br>
+  🖱️<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429/)
   <br>
   <br>
@@ -41,7 +41,7 @@
   <br>
   
   📫contacts<br>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeminp0429@gmail.com)](mailto:hyeminp0429@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeminp0429@gmail.com)](mailto:hyeminp0429@gmail.com)<br>
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyeminp0429@naver.com)](mailto:hyeminp0429@naver.com)
   
 </div>
