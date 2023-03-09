@@ -24,8 +24,10 @@
   🌠languages<br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmp96&layout=compact)](https://github.com/hmp96/github-readme-stats)
+  <br>
+  <br>
   
-<!--   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle}) -->
+  🖱️
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hmp96)](https://solved.ac/hmp96)<br/>
   
 </div>
