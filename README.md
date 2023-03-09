@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=240&section=header&text=Hello!%20I'm%20Hyemin%20Park&fontSize=65&fontColor=99CCFF&animation=fadeIn)
   
-  ## 🌸introduction<br>
+  🌸introduction<br>
   <br>
   안녕하세요.<br>
   데이터 분석 공부 중인 신입입니다🥰
@@ -21,13 +21,13 @@
   <br>
   <br>
   
-  🌠languages<br>
+  🖥️languages<br>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmp96&layout=compact)](https://github.com/hmp96/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmp96&layout=Demo)](https://github.com/hmp96/github-readme-stats)
   <br>
   <br>
   
-  🖱️<br>
+  🖱️baekjoon<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429)
   <br>
   <br>
