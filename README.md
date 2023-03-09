@@ -28,7 +28,6 @@
   <br>
   
   🖱️<br>
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/generate_badge?boj=hmp96)](https://solved.ac/hmp96)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hmp96)](https://solved.ac/hmp96)
   
 </div>
