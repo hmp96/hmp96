@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=240&section=header&text=Hello!%20I'm%20Hyemin%20Park&fontSize=65&fontColor=99CCFF&animation=fadeIn)
   
-  🌸introduction<br>
+  ##🌸introduction<br>
   <br>
   안녕하세요.<br>
   데이터 분석 공부 중인 신입입니다🥰
