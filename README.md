@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hello%20I'm%20Hyemin%20Park!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello%20I'm%20Hyemin%20Park!&fontSize=70)
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=rect) -->
 <!--
 **hmp96/hmp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
