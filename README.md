@@ -1,24 +1,13 @@
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=250&section=header&text=Hello!%20I'm%20Hyemin%20Park&fontSize=70&fontColor=99CCFF&animation=fadeIn)
+  
+  🌸introduction
+  안녕하세요.
+  데이터 분석 공부 중인 신입입니다🥰
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=250&section=header&text=Hello!%20I'm%20Hyemin%20Park&fontSize=70&fontColor=99CCFF&animation=fadeIn)
-<!--
-**hmp96/hmp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
-
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
+  🍀studying
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+  
+</div>
