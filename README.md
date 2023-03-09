@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyemin Park Github!&fontSize=90" />
 <!--
 **hmp96/hmp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
