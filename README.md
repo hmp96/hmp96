@@ -29,5 +29,15 @@
   
   🖱️<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429/)
+  <br>
+  <br>
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmp96&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  <br>
+  <br>
+  
+  ![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmp96&show_icons=true&theme=radical)
+  <br>
+  <br>
   
 </div>
