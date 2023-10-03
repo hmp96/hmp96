@@ -5,7 +5,7 @@
   🌸introduction<br>
   <br>
   안녕하세요.<br>
-  데이터 분석 공부 중인 신입입니다🥰
+  C와 Python 공부 중입니다🥰
   <br>
   <br>
 
@@ -41,10 +41,5 @@
   ![Hyemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmp96&show_icons=true&theme=buefy)
   <br>
   <br>
-  
-  📫contacts<br>
-  <br>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeminp0429@gmail.com)](mailto:hyeminp0429@gmail.com)<br>
-  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyeminp0429@naver.com)](mailto:hyeminp0429@naver.com)
   
 </div>
