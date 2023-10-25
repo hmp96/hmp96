@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
-  🌸introduction<br>
+  ##🌸introduction<br>
   <br>
   시작은 Python 쓰는 인공지능 개발자, 현재는 C언어 쓰는 소프트웨어 엔지니어😎
   <br>
