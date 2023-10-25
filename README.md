@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hi%20there,%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
-<h3 align="center"> 🌸introduction </h3>
+<h3 align="center"> 🌸 Introduction </h3>
   시작은 Python 쓰는 인공지능 개발자,<br>
   현재는 C 쓰는 소프트웨어 엔지니어😎
 <br>
 <br>
   
-<h3 align="center">📋Language</h3>
+<h3 align="center">📋 Language</h3>
 
 <div align=center>
   
@@ -49,7 +49,7 @@
   
 </div>
 
-<h3 align="center">🤖Artificial Intelligence and Bots</h3>
+<h3 align="center">🤖 Artificial Intelligence and Bots</h3>
 
 <div align=center>
   
@@ -58,8 +58,7 @@
 </div>
 <br>
 
-<h3 align="center">🖥️baekjoon ranking</h3>
-
+<h3 align="center">🖥️ Baekjoon Ranking</h3>
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429)
