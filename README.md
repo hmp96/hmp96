@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
+
 
 
 ### 🌸introduction
@@ -32,4 +32,3 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429)
 </p>
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=160&animation=fadeIn&section=footer)
