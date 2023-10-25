@@ -1,6 +1,4 @@
-<div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 
 <h3 align="center">🌸introduction</h3>
@@ -42,6 +40,4 @@
   <br>
 </p>
   
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=160&animation=fadeIn&section=footer)
