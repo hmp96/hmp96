@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🌸introduction </h3>
   시작은 Python 쓰는 인공지능 개발자,<br>
-  현재는 C언어 쓰는 소프트웨어 엔지니어😎
+  현재는 C 쓰는 소프트웨어 엔지니어😎
 <br>
 <br>
   
