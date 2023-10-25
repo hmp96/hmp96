@@ -44,4 +44,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=180&animation=fadeIn&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=160&animation=fadeIn&section=footer)
