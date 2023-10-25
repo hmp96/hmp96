@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 
 ### 🌸introduction
@@ -8,9 +8,9 @@
 
 ### 📋Language
 <p align="center">
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  <![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)>
+  <![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)>
+  <![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)>
 </p>
   
 ### 🎛️ Operating System
@@ -31,4 +31,6 @@
 <p align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429)
 </p>
+
   
+![Footer](https ://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=160&animation=fadeIn&section=footer)
