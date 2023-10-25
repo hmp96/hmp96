@@ -8,7 +8,7 @@
 <br>
 <br>
   
-<h3 align="center">📋Language </h3>
+<h3 align="center">📋Language</h3>
 
 <div align=center>
   
@@ -18,7 +18,7 @@
   
 </div>
 
-<h3 align="center">🎛️ Operating System </h3>
+<h3 align="center">🎛️ Operating System</h3>
 
 <div align=center>
   
@@ -30,7 +30,26 @@
   
 </div>
 
-<h3 align="center">🤖Artificial Intelligence and Bots </h3>
+<h3 align="center">💻 IDEs/Editors</h3>
+
+<div align=center>
+  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  
+</div>
+
+<h3 align="center">🕓 Version Control</h3>
+
+<div align=center>
+  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
+
+<h3 align="center">🤖Artificial Intelligence and Bots</h3>
 
 <div align=center>
   
@@ -39,7 +58,7 @@
 </div>
 <br>
 
-<h3 align="center">🖥️baekjoon ranking </h3>
+<h3 align="center">🖥️baekjoon ranking</h3>
 
 <div align=center>
   
