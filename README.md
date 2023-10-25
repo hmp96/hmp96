@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=220&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=60&fontColor=99CCFF&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hello!%20I'm%20Hyemin%20:\)\&fontSize=60&fontColor=99CCFF&animation=fadeIn)
   
   🌸introduction<br>
   <br>
