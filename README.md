@@ -28,8 +28,7 @@
   <br>
   <br>
 
-  <h2 align="center"> 🖥️baekjoon ranking </h2>
-  
+  🖥️baekjoon ranking
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hyeminp0429)](https://solved.ac/hyeminp0429)
   <br>
