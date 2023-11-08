@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🌸 Introduction </h3>
   Python으로 인공지능 공부하다가<br>
-  C 쓰는 임베디드 소프트웨어 엔지니어가 되었다😎
+  C 쓰는 임베디드 개발자가 되었다😎
 <br>
 <br>
   
