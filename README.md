@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hi%20there,%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 <h3 align="center"> 🌸 Introduction </h3>
-  Python으로 인공지능 공부하다가<br>
-  C 쓰는 임베디드 개발자가 되었다😎
+PythonもしてCもして··· 今頑張ってるのはCと日本語
 <br>
 <br>
   
