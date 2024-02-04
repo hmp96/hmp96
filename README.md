@@ -46,13 +46,6 @@ SW는 너무 어려워, 그런데 내가 SW 개발자라니!
   
 </div>
 
-<h3 align="center">🤖 Artificial Intelligence and Bots</h3>
-
-<div align=center>
-  
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-  
-</div>
 <br>
 
 <h3 align="center">🖥️ Baekjoon Ranking</h3>
