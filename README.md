@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hi%20there,%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 <h3 align="center"> 🌸 Introduction </h3>
-펌웨어 엔지니어입니다...만, 이것저것 합니다.<br>
-일본어 공부 중입니다.
+펌웨어 엔지니어입니다...만, 이것저것 합니다.
 <br>
 <br>
   
