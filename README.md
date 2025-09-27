@@ -37,6 +37,14 @@
   
 </div>
 
+<h3 align="center">⭐ Frameworks</h3>
+
+<div align=center
+  
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+  
+</div>
+
 <h3 align="center">🕓 Version Control</h3>
 
 <div align=center>
