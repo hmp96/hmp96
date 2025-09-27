@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hi%20there,%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 <h3 align="center"> 🌸 Introduction </h3>
-엔지니어입니다. 이모조모 많이 해요
+요모조모 하느라 바쁜 엔지니어입니다.
 <br>
 <br>
   
