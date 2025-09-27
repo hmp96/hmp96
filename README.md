@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=Hi%20there,%20I'm%20Hyemin%20:\)\&fontSize=56&fontColor=99CCFF&animation=fadeIn)
 
 <h3 align="center"> 🌸 Introduction </h3>
-펌웨어 엔지니어입니다...만, 이것저것 합니다.
+엔지니어입니다. 이모조모 많이 해요
 <br>
 <br>
   
@@ -13,6 +13,8 @@
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   
 </div>
 
